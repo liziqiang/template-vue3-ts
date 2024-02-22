@@ -120,5 +120,8 @@
     "commitizen": {
       "path": "node_modules/cz-git"
     }
+  },
+  "volta": {
+    "node": "16.20.2"
   }
 }
